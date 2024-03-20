@@ -1,1 +1,4 @@
-Basic to Advance CSS Topics :
+
+** (How I speak currently === My current speaking style is / The way I currently speak is) **
+
+how js parsing happens in browser ==== How JavaScript parsing occurs in a web browser
