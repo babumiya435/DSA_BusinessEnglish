@@ -1,3 +1,85 @@
 ***********************************************
 ** English Grammer **
 ***********************************************
+
+Parts of Speech
+
+Nouns
+Common Nouns
+Proper Nouns
+Singular Nouns
+Plural Nouns
+Possessive Nouns
+Abstract Nouns
+Collective Nouns
+Compound Nouns
+
+Pronouns
+Relative Pronouns
+Reflexive Pronouns
+Demonstrative Pronouns
+Possessive Pronouns
+Indefinite Pronouns
+Personal Pronouns
+Subject Pronouns
+Object Pronouns
+Interrogative Pronouns
+Reciprocal Pronouns
+Intensive Pronouns
+
+Verbs
+Verb Forms
+Main Verbs
+Helping Verbs
+Auxiliary Verbs
+Transitive and Intransitive Verbs
+Regular Verbs
+Irregular Verbs
+Modal Verbs
+Phrasal Verbs
+Finite Verbs
+Non Finite Verbs
+Linking Verbs
+Stative Verbs
+Action Verbs
+
+Adverbs
+Conjunctive Adverbs
+Adverb Clauses
+
+Adjectives
+Possessive Adjectives
+Interrogative Adjectives
+Compound Adjectives
+Demonstrative Adjectives
+Adjectives List
+
+Conjunctions
+Subordinating Conjunctions
+Coordinating Conjunctions
+Correlative Conjunctions
+
+Prepositions
+Prepositional Phrases
+
+Interjections
+
+Sentence Structure
+
+Types of Sentences
+
+Tenses
+Simple Present Tense
+Present Continuous Tense
+Present Perfect Tense
+Present Perfect Continuous Tense
+Simple Past Tense
+Past Continuous Tense
+Past Perfect Tense
+Past Perfect Continuous Tense
+Simple Future Tense
+Future Continuous Tense
+Future Perfect Tense
+Future Perfect Continuous Tense
+
+Active Voice and Passive Voice
