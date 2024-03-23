@@ -4,3 +4,29 @@ Nouns are a part of speech that comprise words that are used to name people, pla
 Almost every sentence will definitely have a noun, and they perform different roles in a sentence. 
 Nouns can act as the subject, an indirect object, a direct object, a subject complement and an object complement. 
 Nouns can also function as adjectives and verbs.
+
+Types:
+
+1. Proper Nouns:
+    Nouns that are used to name a person, place or thing specifically are called a proper nouns. 
+    ** "Proper nouns always begin with a capital letter." **
+
+        - My name is Mohammad Babu Miya.    [Mohammad Babu Miya]
+        - This is my Laptop.    [Laptop]
+        - David came back from Minsk.   [David, Minsk]
+        - Louis Philippe is a famous brand of men’s clothing.   [Louis Philippe, brand, men's (attributive noun modifying clothing), clothing]
+        - "John and Mary visited Paris last summer."    [John, Mary, Paris, summer]
+        - "I bought a new phone from Apple."    [phone, Apple]
+        - "We enjoyed a delicious pizza at Luigi's Pizzeria."   [pizza, Luigi's Pizzeria]
+        - "The Eiffel Tower is a famous landmark in France."    [author, Eiffel Tower, France]
+        - "I attended Harvard University for my undergraduate studies." [Harvard University, studies]
+        - "Have you listened to the latest album by Taylor Swift?"  [album, Taylor Swift]
+        - "My hometown is New York City."   [hometown, New York City]
+        - "We visited the Louvre Museum during our trip to Paris."  [Louvre Museum, trip, Paris]
+        - "Mark Zuckerberg founded Facebook in 2004."   [Mark Zuckerberg, Facebook, 2004]
+        - "My favorite author is J.K. Rowling." [J.K. Rowling]
+        - Jennifer went to Paris for her vacation.  [Jennifer, Paris, vacation]
+        - SpaceX launched its latest rocket yesterday.  [SpaceX, rocket, yesterday]
+        - John works at Google as a software engineer.  [John, Google, software engineer]
+        - Emily visited the Louvre Museum in France.    [Emily, Louvre Museum, France]
+        - Tokyo is known for its bustling streets and vibrant culture.  [Tokyo, streets, culture]
