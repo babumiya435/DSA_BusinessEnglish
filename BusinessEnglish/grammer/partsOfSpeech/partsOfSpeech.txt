@@ -1,0 +1,18 @@
+** Part Of Speech **
+
+The Oxford Learner’s Dictionary defines parts of speech as 
+    “one of the classes into which words are divided according to their grammar, such as noun, verb, adjective, etc.”
+
+The Cambridge Dictionary also gives a similar definition – 
+    “One of the grammatical groups into which words are divided, such as noun, verb, and adjective etc.”.
+
+There are eight parts of speech to which a word can belong
+
+1. Nouns
+2. Pronouns
+3. Verbs
+4. Adverbs
+5. Adjectives
+6. Prepositions
+7. Conjusctions
+8. Interjections
