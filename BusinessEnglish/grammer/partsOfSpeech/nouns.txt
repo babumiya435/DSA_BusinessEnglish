@@ -9,6 +9,7 @@ Types:
 
 1. Proper Nouns:
     Nouns that are used to name a person, place or thing specifically are called a proper nouns. 
+    
     ** "Proper nouns always begin with a capital letter." **
 
         - My name is Mohammad Babu Miya.    [Mohammad Babu Miya]
